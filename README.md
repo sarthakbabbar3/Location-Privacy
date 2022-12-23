@@ -1,1 +1,4 @@
 # Location-Privacy
+
+Although sharing location data has become a very common practice that a lot of people may take for granted, there are actually very few or no formal rules regarding the legality or ethics of the usage of this location data. Companies use this location data for a wide variety of purposes without the users’ explicit consent. We hypothesize that most consumers would not be aware of the majority of ways in which their data is being used. 
+To confirm this hypothesis and to understand the mental gap between what users think their data is used for and what it is actually used for, we find these actual use cases and mix them with fake use cases. We then plan to conduct a multiple-choice user survey and analyze the results. We will also ask the user about their background, as we predict that there may be a difference in the results depending on, say, whether the user is from a security/computer science background or arts background.
